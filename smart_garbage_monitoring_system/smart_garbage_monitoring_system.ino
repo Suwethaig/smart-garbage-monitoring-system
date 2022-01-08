@@ -1,6 +1,6 @@
 /*
- * The following code snippet can be used to obtain the amount of garbage level in the bin using Ultrasonic sensor and
- * push it to the Thingspeak server.
+ * The following code snippet can be used to obtain the amount of garbage level in the bin,
+ * air pollution around the bin using Ultrasonic sensor and push it to the Thingspeak server.
  * 
  */
 #include <SoftwareSerial.h>          //Software Serial library
